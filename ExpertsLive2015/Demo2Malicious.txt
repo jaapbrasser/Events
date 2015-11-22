@@ -1,0 +1,12 @@
+using System;
+
+namespace CS
+{
+    public class Malicious
+    {
+        public static void Payload()
+        {
+            Console.WriteLine("Oh no!");
+        }
+    }
+}
