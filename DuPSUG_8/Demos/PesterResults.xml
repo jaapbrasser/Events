@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="nunit_schema_2.5.xsd" name="Pester" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-09-01" time="12:02:01">
+  <environment user="JaapBrasser" machine-name="AMS-NBK-188" cwd="C:\DuPSUG 8\Testing in PowerShell\Demos" user-domain="AMS-NBK-188" platform="Microsoft Windows 10 Enterprise Insider Preview|C:\WINDOWS|\Device\Harddisk0\Partition1" nunit-version="2.5.8.0" os-version="10.0.14915" clr-version="4.0.30319.42000" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Powershell" name="Pester" executed="True" result="Success" success="True" time="0.0689" asserts="0">
+    <results>
+      <test-suite type="TestFixture" name="Get-Item" executed="True" result="Success" success="True" time="0.0689" asserts="0" description="Get-Item">
+        <results>
+          <test-case description="Get-Item should not throw" name="Get-Item.Get-Item should not throw" time="0.0576" asserts="0" success="True" result="Success" executed="True" />
+          <test-case description="returns the correct item" name="Get-Item.returns the correct item" time="0.0114" asserts="0" success="True" result="Success" executed="True" />
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
