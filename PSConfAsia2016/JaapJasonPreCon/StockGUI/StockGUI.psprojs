@@ -1,0 +1,11 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>8c85d859-f1d0-4dd9-bf39-822c344cddb5</FileID>
+  <OpenFolders />
+  <OpenFiles>
+    <File>Startup.pss</File>
+    <File>Globals.ps1</File>
+    <File>MainForm.psf</File>
+    <File>Get-StockInfo.ps1</File>
+  </OpenFiles>
+</ProjectState>
