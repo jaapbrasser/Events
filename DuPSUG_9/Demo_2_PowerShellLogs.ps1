@@ -1,0 +1,4 @@
+# Basic example of logging
+'hello'
+
+# Stop service using cmdletsStop-Service -Name wuauserv -WhatIfShow-EventLogGet-WinEvent -FilterHashtable @{    LogName = 'Microsoft-Windows-PowerShell/Operational'    Id = 4104} -MaxEvents 20 | ForEach-Object {    $_.Where{$_.message -match 'Stop-Service|wuauserv'} |    Select-Object -Property UserId, MachineName, TimeCreated, Message}# Obfuscate type name and use obfuscated type and servicename$TypeObfuscated = -join [string[]][char[]](83,121,115,116,101,109,46,83,101,114,118,105,99,101,80,114,111,99,101,115,115,46,83,101,114,118,105,99,101,67,111,110,116,114,111,108,108,101,114)$TypeObfuscated$Type = [type]$TypeObfuscated$Type$Type::GetServices().where{$_.name -eq $Obfuscated}|%{$_.Stop()}
