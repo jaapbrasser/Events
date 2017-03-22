@@ -8,6 +8,7 @@ During the presentation I discussed topics:
 * Working with the ISE and ISESteroids
 
 ## Additional content and links
+* [SlideShare - Writing PowerShell - The right tool for the job](http://www.slideshare.net/JaapBrasser/writing-power-shell-the-right-tool-for-the-job)
 * [GitHub - VS Code](https://github.com/Microsoft/vscode)
 * [VS Code - Site](https://code.visualstudio.com/)
 * [VS Code Tips and Tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
