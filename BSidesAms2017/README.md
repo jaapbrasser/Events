@@ -1,5 +1,5 @@
 # BSides Amsterdam 2017
-Security BSides Amsterdam 2017, Friday 2017-09-01
+Security [BSides](http://bsidesams.nl/) Amsterdam 2017, Friday 2017-09-01
 
 Security BSides is a community-driven framework for building events, by and for, information security community members. These events are already happening in major cities all over the world! We are responsible for organizing an independent BSides-Approved event in Amsterdam, for the Netherlands.
 
