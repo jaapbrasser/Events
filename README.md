@@ -2,7 +2,7 @@ Repository for storing code samples and presentations from various events
 
 ## Index
 * 2017-09-01_BSidesAms2017
-  * [Attendee Guide](https://github.com/jaapbrasser/events/tree/master/2017-09-01_BSidesAms2017/Attendee Guide.md)
+  * [Attendee Guide](https://github.com/jaapbrasser/events/tree/master/2017-09-01_BSidesAms2017/Attendee%20Guide.md)
   * [README](https://github.com/jaapbrasser/events/tree/master/2017-09-01_BSidesAms2017/README.md)
 * 2017-09-15_Austin_PowerShell
   * [README](https://github.com/jaapbrasser/events/tree/master/2017-09-15_Austin_PowerShell/README.md)
