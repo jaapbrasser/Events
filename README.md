@@ -7,7 +7,8 @@ Repository for storing code samples and presentations from various events
 * 2017-09-15_Austin_PowerShell
   * [README](https://github.com/jaapbrasser/events/tree/master/2017-09-15_Austin_PowerShell/README.md)
 * 2017-09-19_DuPSUGBasicsDeux
-  * [README](https://github.com/jaapbrasser/Events/blob/master/2017-09-19_DuPSUGBasicsDeux/README.md)
+  * [README](https://github.com/jaapbrasser/Events/blob/master/2017-09-19_DuPSUGBasicsDeux/README.md)
+* 2017-09-20_EIC
 * DuPSUG_10
   * [README](https://github.com/jaapbrasser/events/tree/master/DuPSUG_10/README.md)
   * [VSCode](https://github.com/jaapbrasser/events/tree/master/DuPSUG_10/VSCode.md)
