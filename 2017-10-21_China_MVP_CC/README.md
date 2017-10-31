@@ -8,6 +8,7 @@ In IT when you spend too much time making mistakes because you did not use the c
 
 ## Slides
 [Paint it blue with PowerShell - GitHub](https://github.com/jaapbrasser/Events/blob/master/2017-10-21_China_MVP_CC/Paint%20it%20blue%20with%20PowerShell.pdf)
+
 [Paint it blue with PowerShell - SlideShare](https://www.slideshare.net/JaapBrasser/paint-it-blue-with-powershell)
 
 ## Photos
