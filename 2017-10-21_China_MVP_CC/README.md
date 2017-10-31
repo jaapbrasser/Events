@@ -7,7 +7,8 @@
 In IT when you spend too much time making mistakes because you did not use the correct tool, this is something that can lead to increased work pressure, working overtime and working in weekends, which is something that we should always strife to prevent. So it is similar in the sense the context switching is always going to give us delays.
 
 ## Slides
-[Paint it blue with PowerShell](https://github.com/jaapbrasser/Events/blob/master/2017-10-21_China_MVP_CC/Paint%20it%20blue%20with%20PowerShell.pdf)
+[Paint it blue with PowerShell - GitHub](https://github.com/jaapbrasser/Events/blob/master/2017-10-21_China_MVP_CC/Paint%20it%20blue%20with%20PowerShell.pdf)
+[Paint it blue with PowerShell - SlideShare](https://www.slideshare.net/JaapBrasser/paint-it-blue-with-powershell)
 
 ## Photos
 [Photos of the event]()
