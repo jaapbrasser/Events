@@ -8,7 +8,7 @@ They'll cover in-depth topics on the PowerShell language and how you can use Pow
 [PSConfAsia 2017](https://www.psconf.asia)
 
 # Blog Post
-n
+
 
 # Session: Secure your environment by automation
 ## Session Description
