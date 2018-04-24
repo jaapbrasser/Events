@@ -1,0 +1,1 @@
+$Service = gsv wu*; $Timer = (Date).AddMinutes(1); do {try {$Service.Start()}catch {}; Sleep -Seconds 10; $Service.Refresh()} while (($Timer -lt (Date)) -or ($Service.Status -ne 'Running')); switch ($Service.Status) {'Running' {exit 0}; default {exit 1}}
