@@ -7,7 +7,7 @@ function Get-ExternalMailRules {
     $Splat = @{
         ConfigurationName = 'Microsoft.Exchange'
         ConnectionUri = 'https://outlook.office365.com/powershell-liveid/'
-        Credential = 'jaap@everythingisawesome.onmicrosoft.com'
+        Credential = $Credential
         Authentication = 'Basic'
         AllowRedirection = $true
     }
