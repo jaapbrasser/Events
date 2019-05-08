@@ -4,7 +4,7 @@ PowerShell + DevOps Global Summit is the gathering of PowerShell + DevOps profes
 
 ## Demystifying Microsoft's Cloud Automation Products
 
-Azure offers an evergrowing suite of products & services to remove repetitive tasks from our daily grind. This session assumes the perspective of a Cloud/IT Professional with the vision to automate anything with whichever tools we have available.
+Azure offers an ever-growing suite of products & services to remove repetitive tasks from our daily grind. This session assumes the perspective of a Cloud/IT Professional with the vision to automate anything with whichever tools we have available.
 Jaap will dive into Azure Automation, Microsoft Flow, Azure Functions and more. What are they, how do they relate to each other and what are the pros and cons of using each product? By looking at and understanding how we can leverage the Cloud Automation tools that are available to us today we will be able to work less tomorrow! 
 
 **Warning: Contains code!**
