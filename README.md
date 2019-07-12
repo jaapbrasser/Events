@@ -1,7 +1,5 @@
 Repository for storing code samples and presentations from various events
 
-GPG Commit test
-
 ## Index
 * DuPSUG 15
 * 2017-09-01_BSidesAms2017
