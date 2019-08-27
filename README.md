@@ -1,7 +1,7 @@
 Repository for storing code samples and presentations from various events
 
 ## Index
-* 
+* Chicago PowerShell User Group
 * DuPSUG 15
 * 2017-09-01_BSidesAms2017
   * [Attendee Guide](https://github.com/jaapbrasser/events/tree/master/2017-09-01_BSidesAms2017/Attendee%20Guide.md)
