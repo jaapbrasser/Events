@@ -3,7 +3,6 @@
 Repository for storing code samples and presentations from various events
 
 ## Index
-
 * [2017-09-01_BSidesAms2017](https://github.com/jaapbrasser/events/tree/master/2017-09-01_BSidesAms2017)
   * [Demo](https://github.com/jaapbrasser/events/tree/master/2017-09-01_BSidesAms2017/Demo)
   * [Attendee Guide.md](https://github.com/jaapbrasser/events/tree/master/2017-09-01_BSidesAms2017/Attendee%20Guide.md)
@@ -187,6 +186,10 @@ Repository for storing code samples and presentations from various events
     * [Demo](https://github.com/jaapbrasser/events/tree/master/2019-09-19%20PSConfAsia/PewPewPew%20with%20PowerShell/Demo)
     * [PewPewPew with PowerShell.pdf](https://github.com/jaapbrasser/events/tree/master/2019-09-19%20PSConfAsia/PewPewPew%20with%20PowerShell/PewPewPew%20with%20PowerShell.pdf)
     * [README.md](https://github.com/jaapbrasser/events/tree/master/2019-09-19%20PSConfAsia/PewPewPew%20with%20PowerShell/README.md)
+* [2019-10-10 API The Docs](https://github.com/jaapbrasser/events/tree/master/2019-10-10%20API%20The%20Docs)
+  * [README.md](https://github.com/jaapbrasser/events/tree/master/2019-10-10%20API%20The%20Docs/README.md)
+* [2019-10-10 DuPSUG 16](https://github.com/jaapbrasser/events/tree/master/2019-10-10%20DuPSUG%2016)
+  * [DuPSUG - DuPSUG in Gouda.pdf](https://github.com/jaapbrasser/events/tree/master/2019-10-10%20DuPSUG%2016/DuPSUG%20-%20DuPSUG%20in%20Gouda.pdf)
 * [DuPSUG_10](https://github.com/jaapbrasser/events/tree/master/DuPSUG_10)
   * [README.md](https://github.com/jaapbrasser/events/tree/master/DuPSUG_10/README.md)
   * [The best tool for the job Working with VScode and ISE.pdf](https://github.com/jaapbrasser/events/tree/master/DuPSUG_10/The%20best%20tool%20for%20the%20job%20Working%20with%20VScode%20and%20ISE.pdf)
