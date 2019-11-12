@@ -1,6 +1,6 @@
 # Events
 
-Repository for storing code samples and presentations from various events
+Repository for storing code samples and presentations from various events. Contains an index with all the pdf and markdown files that this repository contains.
 
 ## Index
 
