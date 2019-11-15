@@ -277,4 +277,3 @@ Repository for storing code samples and presentations from various events. Conta
   * [From zero to hero – Learn how to automate from the GUI](https://github.com/jaapbrasser/events/tree/master/TugaITLisbon2017/From%20zero%20to%20hero%20–%20Learn%20how%20to%20automate%20from%20the%20GUI)
     * [A brave new world – Mac OS X, PowerShell and Linux.pdf](https://github.com/jaapbrasser/events/tree/master/TugaITLisbon2017/A%20brave%20new%20world%20–%20Mac%20OS%20X,%20PowerShell%20and%20Linux/A%20brave%20new%20world%20–%20Mac%20OS%20X,%20PowerShell%20and%20Linux.pdf)
     * [From zero to hero – Learn how to automate from the GUI.pdf](https://github.com/jaapbrasser/events/tree/master/TugaITLisbon2017/From%20zero%20to%20hero%20–%20Learn%20how%20to%20automate%20from%20the%20GUI/From%20zero%20to%20hero%20–%20Learn%20how%20to%20automate%20from%20the%20GUI.pdf)
-* [README.md](https://github.com/jaapbrasser/events/tree/master/README.md)
