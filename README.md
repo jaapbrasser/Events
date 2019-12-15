@@ -203,7 +203,7 @@ Repository for storing code samples and presentations from various events. Conta
 * [2019-11-21 DuPSUG 17](https://github.com/jaapbrasser/events/tree/master/2019-11-21%20DuPSUG%2017)
   * [Define your Azure Infrastructure as Code with Terraform](https://github.com/jaapbrasser/events/tree/master/2019-11-21%20DuPSUG%2017/Define%20your%20Azure%20Infrastructure%20as%20Code%20with%20Terraform)
     * [Define your Azure Infrastructure as Code with Terraform.pdf](https://github.com/jaapbrasser/events/tree/master/2019-11-21%20DuPSUG%2017/Define%20your%20Azure%20Infrastructure%20as%20Code%20with%20Terraform/Define%20your%20Azure%20Infrastructure%20as%20Code%20with%20Terraform.pdf)
-* [2019-12-09 APIdays Paris]()
+* [2019-12-09 APIdays Paris](https)
 * [DuPSUG_10](https://github.com/jaapbrasser/events/tree/master/DuPSUG_10)
   * [README.md](https://github.com/jaapbrasser/events/tree/master/DuPSUG_10/README.md)
   * [The best tool for the job Working with VScode and ISE.pdf](https://github.com/jaapbrasser/events/tree/master/DuPSUG_10/The%20best%20tool%20for%20the%20job%20Working%20with%20VScode%20and%20ISE.pdf)
