@@ -1,6 +1,6 @@
 # Events
 
-Repository for storing code samples and presentations from various events. Contains an index with all the pdf and markdown files that this repository contains. Organized in a folder structure per event, additional links can be found in the index below. 
+Repository for storing code  samples and presentations from various events. Contains an index with all the pdf and markdown files that this repository contains. Organized in a folder structure per event, additional links can be found in the index below. 
 
 ## Index
 
