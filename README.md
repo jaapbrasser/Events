@@ -283,3 +283,4 @@ Repository for storing code  samples and presentations from various events. Cont
     * [From zero to hero – Learn how to automate from the GUI.pdf](https://github.com/jaapbrasser/events/tree/master/TugaITLisbon2017/From%20zero%20to%20hero%20–%20Learn%20how%20to%20automate%20from%20the%20GUI/From%20zero%20to%20hero%20–%20Learn%20how%20to%20automate%20from%20the%20GUI.pdf)
 * [DuPSUG](Virtual DuPSUG)
 * [DuPSUG](Virtual DuPSUG 2)
+* [DuPSUG](Virtual DuPSUG 3)
