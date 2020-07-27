@@ -286,3 +286,4 @@ Repository for storing code  samples and presentations from various events. Cont
 * [DuPSUG](Virtual DuPSUG 3)
 * [DuPSUG](Virtual DuPSUG 4)
 * [DuPSUG](Virtual DuPSUG 5)
+* [DuPSUG](Virtual DuPSUG 6)
