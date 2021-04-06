@@ -289,3 +289,4 @@ Repository for storing code samples and presentations from various events. Conta
 * [DuPSUG](Virtual DuPSUG 6)
 * [DuPSUG](Virtual DuPSUG 7)
 * [DuPSUG](Virtual DuPSUG 8)
+* [DuPSUG](Virtual DuPSUG 9)
