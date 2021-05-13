@@ -11,6 +11,7 @@ Jaap Brasser is a Senior Developer Advocate at Rubrik and a multi-year recipient
 ## Socal PowerShell User Group
 
 * [Meetup](https://www.meetup.com/SoCal-PowerShell-User-Group/events/277447441/)
+* [YouTube playlist](https://www.youtube.com/playlist?list=PLJbIW1QzFUxWYoKMEXryKOS1tn8bSi3oK)
 
 ### What we're about
 
